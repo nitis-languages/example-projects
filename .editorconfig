@@ -1,5 +1,7 @@
 root = true
 
+charset = "utf-8"
+
 [*.nite]
 insert_final_newline = true
 # === For space indentation
