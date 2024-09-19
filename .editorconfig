@@ -1,0 +1,10 @@
+root = true
+
+[*.nite]
+insert_final_newline = true
+# === For space indentation
+# indent_style = space
+# indent_size = 4
+# === For tabulation indentation
+indent_style = tab
+tab_width = 4
